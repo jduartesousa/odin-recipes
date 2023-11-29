@@ -1,0 +1,36 @@
+rice {
+    font-size: 16px;
+    font-family: cursive;
+    background-color: rgb(255, 153, 0);
+}
+
+h1 {
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    color: brown;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    color: brown;
+    background-color: aquamarine;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    color: brown;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.bigpasta {
+    border-radius: 50%
+}
